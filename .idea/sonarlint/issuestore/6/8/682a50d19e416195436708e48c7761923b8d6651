@@ -1,0 +1,21 @@
+
+†	cpp:S3230"eDo not assign data members in a constructor. Initialize member "firstName" in an initialization list.(ÍÕÖúÿÿÿÿ8†í‘«¸1
+…	cpp:S3230"dDo not assign data members in a constructor. Initialize member "lastName" in an initialization list.(Çİùşÿÿÿÿ8†í‘«¸1
+„	cpp:S3230"hDo not assign data members in a constructor. Initialize member "emailAddress" in an initialization list.(¬µæÊ8†í‘«¸1
+ˆ	cpp:S3230"gDo not assign data members in a constructor. Initialize member "phoneNumber" in an initialization list.(ïÛŸ³úÿÿÿÿ8†í‘«¸1
+€	cpp:S3230#"dDo not assign data members in a constructor. Initialize member "username" in an initialization list.(ªª­Ù8í‘«¸1
+…	cpp:S3230$"dDo not assign data members in a constructor. Initialize member "password" in an initialization list.(½‰ìÏøÿÿÿÿ8í‘«¸1
+g	cpp:S6009""FReplace this const reference to "std::string" by a "std::string_view".(š Úıÿÿÿÿ8í‘«¸1
+g	cpp:S6009""FReplace this const reference to "std::string" by a "std::string_view".(š Úıÿÿÿÿ8í‘«¸1
+B	cpp:S5421)"!Global variables should be const.(ÖÆìöúÿÿÿÿ8í‘«¸1
+B	cpp:S5421*"!Global variables should be const.(¿‡î¸ûÿÿÿÿ8í‘«¸1
+u	cpp:S6045*"TUse the transparent comparator "std::less<>" with this associative string container.(¿‡î¸ûÿÿÿÿ8í‘«¸1
+]	cpp:S6011<"ADirectly pass the arguments for object creation to this function.(÷ÚÁÅ8–í‘«¸1
+q	cpp:S1172C"URemove the unused parameter "req", make it unnamed, or declare it "[[maybe_unused]]".(îÎ¦¾8—í‘«¸1
+^	cpp:S6005I"=Replace this declaration by a structured binding declaration.(Ú®½øÿÿÿÿ8œí‘«¸1
+Q	cpp:S6003²"4Replace this use of "push_back" with "emplace_back".(™Ñ””8·í‘«¸1
+	cpp:S5350´"bMake the type of this variable a reference-to-const. The current type of "user" is "class User &".(€›…ô8¾í‘«¸1
+{	cpp:S1172Ğ"YRemove the unused parameter "request", make it unnamed, or declare it "[[maybe_unused]]".(ÖÉîüÿÿÿÿ8¼í‘«¸1
+‘cpp:S995Ğ"pMake the type of this parameter a reference-to-const. The current type of "request" is "struct crow::request &".(ÖÉîüÿÿÿÿ8¼í‘«¸1
+	cpp:S5350Ñ"bMake the type of this variable a reference-to-const. The current type of "user" is "class User &".(€›…ô8ò«¸1
+:cpp:S125Ä"Remove the commented out code.( šÊÉ8âš’«¸1

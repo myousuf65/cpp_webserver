@@ -1,0 +1,10 @@
+/Users/ypathan/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Users/ypathan/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S /Users/ypathan/CLionProjects/cpp_webserver -B /Users/ypathan/CLionProjects/cpp_webserver/cmake-build-debug
+-- Found OpenSSL: /opt/homebrew/lib/libcrypto.dylib (found version "3.2.0")  
+CMake Error at /Users/ypathan/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/FindBoost.cmake:1826 (file):
+  file STRINGS file "/opt/homebrew/include/boost/version.hpp" cannot be read.
+Call Stack (most recent call first):
+  CMakeLists.txt:13 (find_package)
+
+
+-- Found Boost: /opt/homebrew/include (found version "0.0.0")  
+-- Configuring incomplete, errors occurred!
